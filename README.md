@@ -18,4 +18,4 @@ A simple Streamlit app showing the GDP of different countries in the world.
    $ streamlit run streamlit_app.py
    ```
 
-![proteina](https://github.com/usuario/repositorio/raw/main/ruta/a/la/imagen.png)
+![proteina](https://github.com/Ariadne1217/PROYECTO_/blob/main/hemoglobina.png))
