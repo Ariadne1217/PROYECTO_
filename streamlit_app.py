@@ -95,3 +95,5 @@ fig = px.bar(
 fig.update_layout(title_x=0.5)
 st.plotly_chart(fig)
 
+# Mostrar imagen de la proteína seleccionada
+st.image(imagenes_proteinas[opcion], caption=f"Estructura de la {opcion}", use_column_width=True)
